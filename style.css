@@ -1,0 +1,15 @@
+.wrapper {
+    background-color: pink;
+}
+
+.container {
+    background-color: lightgreen;
+}
+
+.row {
+    background-color: lightgray; 
+}
+.col {
+    background-color: beige;
+    min-height: 100px;
+}
